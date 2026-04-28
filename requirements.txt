@@ -5,4 +5,3 @@ scikit-learn
 yfinance
 streamlit
 statsmodels
-reportlab
